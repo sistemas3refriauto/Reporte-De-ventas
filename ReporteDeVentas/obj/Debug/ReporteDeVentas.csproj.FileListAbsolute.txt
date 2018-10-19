@@ -1,0 +1,58 @@
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\ReporteDeVentas.exe.config
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\ReporteDeVentas.exe
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\ReporteDeVentas.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\obj\Debug\ReporteDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\obj\Debug\ReporteDeVentas.FrmReporteVentas.resources
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\obj\Debug\ReporteDeVentas.Properties.Resources.resources
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\obj\Debug\ReporteDeVentas.csproj.GenerateResource.Cache
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\obj\Debug\ReporteDeVentas.exe
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\obj\Debug\ReporteDeVentas.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\HelperSharp.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\HelperSharp.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\HelperSharp.xml
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\AdvancedDataGridView.xml
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\itextsharp.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\itextsharp.xml
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\ReporteDeVentas.exe.config
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.exe
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\ReporteDeVentas.exe
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\ReporteDeVentas.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\HelperSharp.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\itextsharp.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\AdvancedDataGridView.xml
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\HelperSharp.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\HelperSharp.xml
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\itextsharp.xml
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.FrmReporteVentas.resources
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.Properties.Resources.resources
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.csproj.GenerateResource.Cache
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\ReporteDeVentas.exe.config
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.exe
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\ReporteDeVentas.exe
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\ReporteDeVentas.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\HelperSharp.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\itextsharp.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\AdvancedDataGridView.xml
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\HelperSharp.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\HelperSharp.xml
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\itextsharp.xml
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.FrmReporteVentas.resources
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.Properties.Resources.resources
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\obj\Debug\ReporteDeVentas.csproj.GenerateResource.Cache
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\AdvancedDataGridView.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas - copia - copia\ReporteDeVentas\bin\Debug\de\AdvancedDataGridView.resources.dll
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\AdvancedDataGridView.pdb
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\ReporteDeVentas\ReporteDeVentas\bin\Debug\de\AdvancedDataGridView.resources.dll
