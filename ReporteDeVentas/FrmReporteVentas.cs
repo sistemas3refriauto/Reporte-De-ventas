@@ -270,6 +270,34 @@ namespace ReporteDeVentas
                 }
                 cont = cont + 1;
             }
+            #region eliminar columnas en blanco
+            List<int> colums = new List<int>();
+            if (dt.Rows.Count > 0)
+            {
+                int colum = dataGridCampo.ColumnCount;
+                for (int j = 0; j <= dt.Columns.Count - 1; j++)
+                {
+                    bool delColum = true;
+                    foreach (DataRow row in dt.Rows)
+                    {
+
+                        string value = row[j].ToString();
+                        if (value != "")
+                            delColum = false;
+                    }
+                    if (delColum)
+                        colums.Add(j);
+                }
+                int cound = 0;
+                foreach(int s in colums)
+                {
+                    dt.Columns.Remove(dt.Columns[s-cound]);
+                    cound++;
+                   // dgccc.Add(dataGridCampo.Columns[s]);
+                }
+                
+            }
+            #endregion
         }
         private void dataGridView_FilterStringChanged(object sender, EventArgs e)
         {
